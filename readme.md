@@ -7,7 +7,7 @@ Before going too far install the [Vue Devtools](https://github.com/vuejs/vue-dev
 This allows you to inspect and debug vue applications more easily than basic browser
 consoles.
 
-#####Lesson 1
+##### Lesson 1
 
 The first thing you learn about Vue is the two way data binding.
 
@@ -25,7 +25,7 @@ new Vue({
     }
 })
 ```
-######Let's focus on the javascript.
+###### Let's focus on the javascript.
 
 `new Vue` creates a new vuejs instance. You are not tied down to one on per view.
 
@@ -37,7 +37,7 @@ within the element where vue is mounted.
 truth for the instance. You are not limited on the number of data elements that
 your instance can use.
 
-######Back to the html.
+###### Back to the html.
 
 `<div id="app">` is the element that contains our vue instance. It is where our 
 instance is mounted.
