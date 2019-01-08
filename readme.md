@@ -3,6 +3,8 @@
 This is a step by step `vuejs` introductory tutorial. This 
 file is updated on each revision. 
 
+[View app](https://mutaimwiti.github.io/vue-basics/).
+
 Before going too far install the [Vue Devtools](https://github.com/vuejs/vue-devtools#vue-devtools).
 This allows you to inspect and debug vue applications more easily than basic browser
 consoles.
